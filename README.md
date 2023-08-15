@@ -1,4 +1,4 @@
-# Rusty Llama
+# Rusty Llama 🦀🦙
 
 The goal of Rusty Llama is to fine tune an LLM for Rust code generation.
 
